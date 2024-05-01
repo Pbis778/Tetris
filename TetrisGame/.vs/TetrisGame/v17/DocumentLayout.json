@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Piotrek\\Documents\\GitHub\\Tetris\\TetrisGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22538F7C-9AD8-4495-BB22-0D944B995655}|TetrisGame.csproj|c:\\users\\piotrek\\documents\\github\\tetris\\tetrisgame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{22538F7C-9AD8-4495-BB22-0D944B995655}|TetrisGame.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22538F7C-9AD8-4495-BB22-0D944B995655}|TetrisGame.csproj|c:\\users\\piotrek\\documents\\github\\tetris\\tetrisgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22538F7C-9AD8-4495-BB22-0D944B995655}|TetrisGame.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22538F7C-9AD8-4495-BB22-0D944B995655}|TetrisGame.csproj|c:\\users\\piotrek\\documents\\github\\tetris\\tetrisgame\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22538F7C-9AD8-4495-BB22-0D944B995655}|TetrisGame.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22538F7C-9AD8-4495-BB22-0D944B995655}|TetrisGame.csproj|c:\\users\\piotrek\\documents\\github\\tetris\\tetrisgame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{22538F7C-9AD8-4495-BB22-0D944B995655}|TetrisGame.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameState.cs",
               "DocumentMoniker": "C:\\Users\\Piotrek\\Documents\\GitHub\\Tetris\\TetrisGame\\GameState.cs",
               "RelativeDocumentMoniker": "GameState.cs",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "GameState.cs",
               "ViewState": "AQIAAIsAAAAAAAAAAIAwwLEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:10:38.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:10:38.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Piotrek\\Documents\\GitHub\\Tetris\\TetrisGame\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -59,13 +58,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Piotrek\\Documents\\GitHub\\Tetris\\TetrisGame\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Piotrek\\Documents\\GitHub\\Tetris\\TetrisGame\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAuwJkAAAAoAAAA",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAuwI8AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T11:51:54.944Z",
               "EditorCaption": ""
