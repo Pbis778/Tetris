@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TetrisGame
-build_property.ProjectDir = C:\Users\pbist\OneDrive\Dokumenty\GitHub\Tetris\TetrisGame\
+build_property.ProjectDir = C:\Users\Piotrek\Documents\GitHub\Tetris\TetrisGame\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

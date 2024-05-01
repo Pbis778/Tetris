@@ -8,19 +8,19 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\pbist\\.nuget\\packages\\": {}
+    "C:\\Users\\Piotrek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pbist\\OneDrive\\Dokumenty\\GitHub\\Tetris\\TetrisGame\\TetrisGame.csproj",
+      "projectUniqueName": "C:\\Users\\Piotrek\\Documents\\GitHub\\Tetris\\TetrisGame\\TetrisGame.csproj",
       "projectName": "TetrisGame",
-      "projectPath": "C:\\Users\\pbist\\OneDrive\\Dokumenty\\GitHub\\Tetris\\TetrisGame\\TetrisGame.csproj",
-      "packagesPath": "C:\\Users\\pbist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pbist\\OneDrive\\Dokumenty\\GitHub\\Tetris\\TetrisGame\\obj\\",
+      "projectPath": "C:\\Users\\Piotrek\\Documents\\GitHub\\Tetris\\TetrisGame\\TetrisGame.csproj",
+      "packagesPath": "C:\\Users\\Piotrek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Piotrek\\Documents\\GitHub\\Tetris\\TetrisGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pbist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Piotrek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

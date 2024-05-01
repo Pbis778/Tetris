@@ -34,7 +34,7 @@ namespace TetrisGame
         {
             if (rotationState == 0)
             {
-                rotationState = Sectors.Length- 1;
+                rotationState = Sectors.Length - 1;
             } else
             {
                 rotationState--;

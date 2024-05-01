@@ -18,7 +18,7 @@ namespace TetrisGame
         {
             Rows = rows;
             Columns = columns;
-            board = new int[Rows, Columns];
+            board = new int[rows, columns];
         }
 
         public bool IsInside(int r, int c)
@@ -72,7 +72,7 @@ namespace TetrisGame
             }
         }
 
-        public int ClearFullRow()
+        public int ClearFullRows()
         {
             int cleared = 0;
 
